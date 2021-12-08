@@ -1,1 +1,246 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T04:47:35.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" version="14.9.2" etag="kDaQGBbOP-5-khO8jRCU" type="github"><diagram id="p5ktJG7kHRR2MGikXrD1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-08T05:26:10.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="J9Edw26b3tzuUNwgkYsu" version="14.9.2" type="github">
+  <diagram id="p5ktJG7kHRR2MGikXrD1" name="Page-1">
+    <mxGraphModel dx="2228" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-1" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-2" value="Kernel" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-3" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="570" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-5" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="570" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-6" target="gaqG3cVAWfKeBBLfXeYB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-6" value="User Customized Storage Serivce" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-7" target="gaqG3cVAWfKeBBLfXeYB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-7" value="Engine" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-10" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="145" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-11" target="gaqG3cVAWfKeBBLfXeYB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-38" value="use some way share meta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaqG3cVAWfKeBBLfXeYB-36">
+          <mxGeometry x="-0.4593" y="-2" relative="1" as="geometry">
+            <mxPoint x="37" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-11" value="Kernel" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="370" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-13" target="gaqG3cVAWfKeBBLfXeYB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-13" value="User Customized Storage Serivce" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-15" target="gaqG3cVAWfKeBBLfXeYB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashPattern=1 2;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-15" target="gaqG3cVAWfKeBBLfXeYB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-32" value="replica memtable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaqG3cVAWfKeBBLfXeYB-31">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-15" value="Engine" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-16" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-17" target="gaqG3cVAWfKeBBLfXeYB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-39" value="use some way share meta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaqG3cVAWfKeBBLfXeYB-37">
+          <mxGeometry x="0.2538" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-17" value="Kernel" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-19" target="gaqG3cVAWfKeBBLfXeYB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-19" value="User Customized Storage Serivce" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-21" target="gaqG3cVAWfKeBBLfXeYB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-21" target="gaqG3cVAWfKeBBLfXeYB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-34" value="replica memtable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaqG3cVAWfKeBBLfXeYB-33">
+          <mxGeometry x="0.1077" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-21" value="Engine" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-24" value="Client Leader Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-25" value="Client Backup Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-26" value="Client Backup Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-42" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="660" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-41" value="Local Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-43" value="Service Process 1&lt;br&gt;(storage only but with multi storage)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="590" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-44" value="S3 Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-45" value="gRPC Storage Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="680" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-46" value="Service Process 2&lt;br&gt;(journal only)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry y="590" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-47" value="gRPC Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.567;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-48" target="gaqG3cVAWfKeBBLfXeYB-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-48" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="930" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-49" value="Service Process 1.n&lt;br&gt;(pure storage)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="960" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-50" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="1020" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-51" value="gRPC Storage Serivce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1030" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-52" value="Local Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="660" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-40" value="Local Journal" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-58" value="gRPC Journal Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="680" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-60" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.817;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-61" target="gaqG3cVAWfKeBBLfXeYB-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-61" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="930" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-62" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1020" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-63" value="Local Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-64" value="gRPC Journal Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1040" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-65" value="Service Process 2.n&lt;br&gt;(pure storage)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="960" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-67" value="gRPC Journal" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-70" value="" style="whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="570" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-71" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="660" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-72" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="660" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-73" value="Local Journal" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-74" value="Local Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-75" value="gRPC Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-76" value="Service Process 3&lt;br&gt;(journal + storage)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="580" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-77" value="gRPC Journal Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-78" value="gRPC Storage Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="670" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-5" target="gaqG3cVAWfKeBBLfXeYB-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-485" y="900" />
+              <mxPoint x="595" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-81" value="Service Process 4&lt;br&gt;([journal] + storage + job)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="580" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-86" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="660" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-87" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="660" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-89" value="gRPC Storage Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="680" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-90" target="gaqG3cVAWfKeBBLfXeYB-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-90" value="Local Storage" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-91" value="gRPC Job Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-92" value="Compaction" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaqG3cVAWfKeBBLfXeYB-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="gaqG3cVAWfKeBBLfXeYB-63" target="gaqG3cVAWfKeBBLfXeYB-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
